@@ -1,0 +1,48 @@
+Intelij인텔리제이 단축키
+
+alt + 1 = 코드 창 숨기기, 펼치기
+
+alt + insert = src에서 새로운 파일 만들기
+
+ctrl + shift + f12 = 코드창만 보기
+
+ctrl + / = 주석달기, 취소
+
+ctrl + shift + / = */ 형식으로 주석달기
+
+ctrl + shift + 상 or 하 방향키 = 해당하는 코드를 위 아래로 이동시킬 수 있음
+
+ctrl + d = 복사
+
+ctrl + x = 줄 삭제(잘라내기)
+
+ctrl + f = 찾기
+    +@ enter = 다음 단어, shift + enter = 이전 단어로 이동
+
+ctrl + shift + f = 모든 파일에서 찾기
+
+shift+shift = 인텔리제이의 모든 기능을 보기
+
+alt + space = 패키지 임포트 (import) / 빨간 줄 뜨는거에 커서를 올리고 하면 됨
+
+psvm = public static void main(String[] args) {
+
+           } 작성
+S.out
+
+ctrl + art + i = 자동으로 줄 맞춤
+
+__________
+
+//필드와 메서드 앞에 올 수 있는 4가지 '접근 지정자'
+필드와 메서드 앞에 오는 것
+public : 어디서나 사용가능
+protected : 같은 패키지 + 다른 패키지의 자식 클래스
+default : 같은 패키지에서만
+private :  같은 패키지 같은 파일에서만
+
+public과 private가 주로 쓰임
+
+클래스 앞에 오는 것
+가. public : 다른 클래스에서 해당 클래스를 부를 수 있다.
+나. default :다른 클래스에서 import를 할 수 없다.

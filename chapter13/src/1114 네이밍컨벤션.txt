@@ -1,0 +1,21 @@
+코딩 컨벤션 : 코딩 스타일 규약
+
+네이밍(변수 작명) 컨벤션 종류
+
+1. snake convention : 패키지, 모듈
+snake_case
+언더바 붙이기
+
+
+2. pascal convention:클래스
+PascalCase
+단어마다 대문자(앞글자도 대문자)
+
+
+3. camel case:변수, 함수
+camelCase
+단어마다 대문자(앞글자는 대문자X)
+
+
+4. 모두_대문자 : 상수 정의할 때
+#DEFINE_RE
